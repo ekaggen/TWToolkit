@@ -1,8 +1,10 @@
 # Tribalwars Toolkit
 
-This is here mostly for memories sake. This serves as a reminder of how my coding style has changed from before my formal CS education. It was the last major project I did before starting Computer Science.
+This is here mostly for memories sake from 2007. My code has certainly improved since this. This serves as a reminder of how my coding style has changed from before my formal CS education. It was the last major project I did before starting Computer Science. Apologies to everyone for the lack of comments. I wasn't too big into comments back then.
 
 I developed this in 2007 as add-on for the game Tribalwars. One notable thing here is that plain vanilla Javascript is used. I thought that it was pretty fun to be directly in touch with the DOM. Back in 2007 jQuery and the other cool JS frameworks weren't very popular yet.
+
+-----
 
 This really helped lots of people who used this because many spent hours keeping track of data to optimize their gameplay, myself included.
 
